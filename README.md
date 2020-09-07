@@ -17,9 +17,12 @@ https://colab.research.google.com/drive/1j8N7boMiNM65YiSqVRXpnJ_nALi3_Neo?usp=sh
 </br>
 
 ## Link for dataset:
-http://www.zemris.fer.hr/projects/LicensePlates/english/
+http://www.zemris.fer.hr/projects/LicensePlates/english/  (used here)
+https://datasetsearch.research.google.com/
 
 ## link for labelling dataset:
+
+https://github.com/tzutalin/labelImg (used here)
 https://github.com/EscVM/OIDv4_ToolKit
 https://github.com/theAIGuysCode/OIDv4_ToolKit
 
