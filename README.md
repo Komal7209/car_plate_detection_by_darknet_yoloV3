@@ -23,6 +23,9 @@ http://www.zemris.fer.hr/projects/LicensePlates/english/
 https://github.com/EscVM/OIDv4_ToolKit
 https://github.com/theAIGuysCode/OIDv4_ToolKit
 
+- *Have used instructions as per above two repos only. Later one only provide with a command at top to provide final output of dataset.*
+- *Further dataset has been directly uploaded to google drive for training the model*
+
 ## References
 https://colab.research.google.com/drive/1lTGZsfMaGUpBG4inDIQwIJVW476ibXk_#scrollTo=jAN2TNZ007c_
 https://colab.research.google.com/drive/1Mh2HP_Mfxoao6qNFbhfV3u28tG8jAVGk#scrollTo=VHw00Cro8ONr
