@@ -21,3 +21,13 @@ http://www.zemris.fer.hr/projects/LicensePlates/english/
 
 ## link for labelling dataset:
 https://github.com/EscVM/OIDv4_ToolKit
+https://github.com/theAIGuysCode/OIDv4_ToolKit
+
+## References
+https://colab.research.google.com/drive/1lTGZsfMaGUpBG4inDIQwIJVW476ibXk_#scrollTo=jAN2TNZ007c_
+https://colab.research.google.com/drive/1Mh2HP_Mfxoao6qNFbhfV3u28tG8jAVGk#scrollTo=VHw00Cro8ONr
+
+## File Repo Reference
+https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial/tree/master/yolov3
+https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial
+https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
