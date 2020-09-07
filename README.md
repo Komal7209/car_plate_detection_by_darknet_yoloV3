@@ -17,4 +17,4 @@ https://colab.research.google.com/drive/1j8N7boMiNM65YiSqVRXpnJ_nALi3_Neo?usp=sh
 </br>
 
 ## Link for dataset:
-
+http://www.zemris.fer.hr/projects/LicensePlates/english/
