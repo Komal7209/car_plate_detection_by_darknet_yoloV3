@@ -12,7 +12,7 @@ I would have finished this project in 1 week but it took me more than 2 weeks.
 - Explored blogs, github repos, asked in communities at slack, Facebook groups, telegram groups, read research papers,
 - Asked my seniors who were into machine learning, asked people on LinkedIn.
 
-Then after selecting two blogs and corresponding two github repo ,I in-depth studied image processing but further I thought I was about to make a computer vision model but not simply write a code to detect that image.
+Then after selecting two blogs and corresponding two github repo ,I in-depth studied image processing but further I thought I was about to make a computer vision model but not simply write a code to detect that image.It also have me a thought to further check into for words being written there which could be further classified that to which country it belonged
 
 ## Tools could be used:
 - Then I explored which language I could use: **MATLAB** or **python**
