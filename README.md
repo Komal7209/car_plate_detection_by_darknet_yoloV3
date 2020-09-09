@@ -1,5 +1,37 @@
 # Car_plate_detection_by_darknet_yoloV3
 
+This project got it's inspiration to proceed with because of one startup who were about to offer me intern role... This only gave a push to me to explore number of resources get into in-depth knowledge of image processing, object detection and exploring difference between two.
+Mostly such type of projects take about 6 months for a novice.
+Afterall these projects require in depth rnd and to choose which model suits best to proceed with.
+This same happened for me...
+But it took me 15 days of rnd and 5 days for execution.
+I would have finished this project in 1 week but it took me more than 2 weeks.
+
+Journey started with in-depth study of image processing.
+Explored blogs, github repos, asked in communities at slack, Facebook groups, telegram groups, read research papers,
+Asked my seniors who were into machine learning, asked people on LinkedIn.
+
+Then after selecting two blogs and corresponding two github repo ,I in-depth studied image processing but further I thought I was about to make a computer vision model but not simply write a code to detect that image.
+
+## Tools could be used:
+- Then I explored which language I could use: **MATLAB** or **python**
+- Another take was on which library I need to choose **tensorflow** , **keras** , **scikit-learn** , **pytorch**
+- How to image could be processed: **using opencv**
+- Frameworks could be used: **darknet** , **darkflow** ,**LPRNet** , **Tesseract**
+- if wanna go directly with an API then it's : **GoogleVision**
+
+I would have provide a lot blogs which corresponds to above tools which I first try to implement and then got on my final product but
+I think it's better to proceed with what I used in final product 😌
+
+Final product is made using **darknet** framework, **yolov3** weights and used **google colab** so that it could use cloud's hardware for processing and cloud's storage for storing the dataset using it as IaaS and Sar
+
+
+
+
+
+
+
+
 ## **Google Colab Notebooks**
 
 ## For environment set up :
