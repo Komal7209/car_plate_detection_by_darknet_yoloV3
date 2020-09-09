@@ -1,6 +1,7 @@
 # Car_plate_detection_by_darknet_yoloV3
 
-This project got it's inspiration to proceed with because of one startup who were about to offer me intern role... This only gave a push to me to explore number of resources get into in-depth knowledge of image processing, object detection and exploring difference between two.
+This project got it's inspiration to proceed with because of one ceo of startup who was about to offer me intern role... This only gave a push to me to explore number of resources get into in-depth knowledge of image processing, object detection and exploring difference between two.
+I'm really thankful to him for letting me explore my limits to such an extent.
 Mostly such type of projects take about 6 months for a novice.
 Afterall these projects require in depth rnd and to choose which model suits best to proceed with.
 This same happened for me...
