@@ -35,17 +35,17 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 
 ## **Google Colab Notebooks**
 
-## For environment set up :
+## For environment set up( installation notebook):
 https://colab.research.google.com/drive/1G-gC0JQutALKQNyYDBgkjKuDD-qQuDni?usp=sharing
 
 </br>
 
-## For Model training :
+## For Model training (training notebook) :
 https://colab.research.google.com/drive/12qd5flRvELrnXsM_T_WM8yO_NtRqJIXS?usp=sharing
 
 </br>
 
-## For using the model over example image:
+## For using the model over example image( demo notebook):
 https://colab.research.google.com/drive/1j8N7boMiNM65YiSqVRXpnJ_nALi3_Neo?usp=sharing
 
 </br>
