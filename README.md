@@ -27,6 +27,12 @@ I think it's better to proceed with what I used in final product 😌
 Final product is made using **darknet** framework, **yolov3** weights and used **google colab** so that it could use cloud's hardware for processing and cloud's storage for storing the dataset using it as **IaaS** and **Sar**
 
 
+# **Prerequisites**
+
+Nothing much required before if you are directly running Google colab notebook
+Just need to run all the cells
+
+
 
 
 
