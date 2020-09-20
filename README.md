@@ -26,17 +26,27 @@ I think it's better to proceed with what I used in final product 😌
 
 Final product is made using **darknet** framework, **yolov3** weights and used **google colab** so that it could use cloud's hardware for processing and cloud's storage for storing the dataset using it as **IaaS** and **Sar**
 
+## Some more explanation related to tools
+
+### Core Framework and Tools
+
+*Python* is a very popular high-level programming language that is great for data science. Its ease of use and wide support within popular machine learning platforms, coupled with a large catalog of ML libraries, has made it a leader in this space.
+*Pandas* is an open-source Python library designed for analyzing and manipulating data. It is particularly good for working with tabular data and time-series data.
+*NumPy*, like Pandas, is a Python library. NumPy provides support for large, multi-dimensional arrays of data, and has many high-level mathematical functions that can be used to perform operations on these arrays.
+
+### Machine Learning and Deep Learning
+
+*Scikit-Learn* is a Python library designed specifically for machine learning. It is designed to be integrated with other scientific and data-analysis libraries, such as NumPy, *SciPy*, and matplotlib (described below).
+*Apache Spark* is an open-source analytics engine that is designed for cluster-computing and that is often used for large-scale data processing and big data.
+*TensorFlow* is a free, open-source software library for machine learning built by Google Brain.
+*Keras* is a Python deep-learning library. It provide an Application Programming Interface (API) that can be used to interface with other libraries, such as TensorFlow, in order to program neural networks. Keras is designed for rapid development and experimentation.
+*PyTorch* is an open source library for machine learning, developed in large part by Facebook's AI Research lab. It is known for being comparatively easy to use, especially for developers already familiar with Python and a Pythonic code style.
+
 
 # **Prerequisites**
 
 Nothing much required before if you are directly running Google colab notebook
 Just need to run all the cells
-
-
-
-
-
-
 
 
 ## **Google Colab Notebooks**
