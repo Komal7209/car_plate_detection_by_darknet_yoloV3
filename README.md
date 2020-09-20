@@ -40,7 +40,7 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 - **Apache Spark** is an open-source analytics engine that is designed for cluster-computing and that is often used for large-scale data processing and big data.
 - **TensorFlow** is a free, open-source software library for machine learning built by Google Brain.
 - **Keras** is a Python deep-learning library. It provide an Application Programming Interface (API) that can be used to interface with other libraries, such as TensorFlow, in order to program neural networks. Keras is designed for rapid development and experimentation.
-- **PyTorch*8 is an open source library for machine learning, developed in large part by Facebook's AI Research lab. It is known for being comparatively easy to use, especially for developers already familiar with Python and a Pythonic code style.
+- **PyTorch** is an open source library for machine learning, developed in large part by Facebook's AI Research lab. It is known for being comparatively easy to use, especially for developers already familiar with Python and a Pythonic code style.
 
 
 # **Prerequisites**
