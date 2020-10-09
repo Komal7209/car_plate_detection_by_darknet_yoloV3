@@ -90,3 +90,7 @@ https://colab.research.google.com/drive/1j8N7boMiNM65YiSqVRXpnJ_nALi3_Neo?usp=sh
 - https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial/tree/master/yolov3   </br>
 - https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial                       </br>
 - https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e
+
+
+## Presentation Website
+https://komal7209.github.io/project-presentation-website/
