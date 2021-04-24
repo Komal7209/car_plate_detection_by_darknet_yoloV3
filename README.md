@@ -42,6 +42,21 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 - **Keras** is a Python deep-learning library. It provide an Application Programming Interface (API) that can be used to interface with other libraries, such as TensorFlow, in order to program neural networks. Keras is designed for rapid development and experimentation.
 - **PyTorch** is an open source library for machine learning, developed in large part by Facebook's AI Research lab. It is known for being comparatively easy to use, especially for developers already familiar with Python and a Pythonic code style.
 
+## CNN workflow (To write)
+
+## YoloV3 functioning:
+
+Selects box with highest probability from all boxed objects.
+
+### Architecture: 
+### Epoch:
+### Accuracy :
+### Activation function: 
+
+### How deep you know:
+Technical Aspect
+### How well you know:
+Business Aspect
 
 # **Prerequisites**
 
