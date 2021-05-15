@@ -46,7 +46,36 @@ Final product is made using **darknet** framework, **yolov3** weights and used *
 
 ## YoloV3 functioning:
 
-Selects box with highest probability from all boxed objects.
+"Selects box with highest probability from all boxed objects."
+
+### Key Summary
+* You Look Only Once (Yolo) Implemented in Tensorflow
+* K-means clustering across short rolling windows to group similar objects across frames
+* Predict if object is similar between frames
+
+### Yolo Basics
+* Single Feedforward network
+* Yolo reframe object detection as single regression problem
+* Images -> Pixels -> Bounding Box -> Probabilities
+* Divides image into S X S Grid
+* If Object centre falls in the Grid then grid cell is responsible for detecting the object
+* Predict bounding boxes and class probabilities
+
+### Yolo Implementation
+* 32 layer Deep CNN
+* Input Image resized into 448 x 448
+* Yolo Network Output = S x S x (B*5 + C) tensor of predictions ( 7 x 7 x 30 )
+* S - Numbers of rows and columns in which we divide the image
+* B - Number of objects that can be predicted in given box
+* C - Number of classes
+* 5 - Terms account for x-axis grid offset, y-axis grid offset, width, height and confidence in each grid cell
+* Dataset - Pascal VOC Dataset
+
+### K-Means Extension to Yolo
+* K-means clustering across images within the short rolling window to group similar objects across frames
+* Define Distance between two images I1, I2 given dimensions x,y and color channels c
+* Works well when images are similar 
+
 
 ### Architecture: 
 ### Epoch:
